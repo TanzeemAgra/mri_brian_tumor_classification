@@ -16,3 +16,4 @@ tensorflow
 matplotlib
 seaborn
 django
+gunicorn
